@@ -24,3 +24,6 @@ Thumbs.db
 # Editor junk
 .vscode/
 .idea/
+
+# Database
+ecosystem.db
